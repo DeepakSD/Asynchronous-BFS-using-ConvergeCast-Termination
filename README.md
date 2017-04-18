@@ -18,9 +18,9 @@ No process knows n. Each process knows the number of neighbors it has, the ids o
 This project is coded using Java 7.
 
 The project has 3 java files namely,
-AsynchBFS.java(Main class)
-Master.java
-Process.java
+* AsynchBFS.java(Main class)
+* Master.java
+* Process.java
 
 The sample input file name is "input.txt"
 
